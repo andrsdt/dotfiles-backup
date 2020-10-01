@@ -1,0 +1,10 @@
+clear Lock
+keycode 66 = Mode_switch
+
+keysym a = a A Left
+keysym d = d D Right
+keysym w = w W Up
+keysym s = s S Down
+keysym c = c C Home
+keysym v = v V End
+keysym BackSpace = BackSpace BackSpace Delete

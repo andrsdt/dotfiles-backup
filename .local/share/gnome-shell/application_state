@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="urxvt.desktop" score="69" last-seen="1600783140"/>
+    <application id="firefox.desktop" score="15" last-seen="1600777971"/>
+    <application id="google-chrome.desktop" score="4" last-seen="1600783149"/>
+    <application id="gnome-control-center.desktop" score="11" last-seen="1600777854"/>
+  </context>
+</application-state>

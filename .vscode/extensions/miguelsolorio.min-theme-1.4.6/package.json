@@ -1,0 +1,41 @@
+{
+	"name": "min-theme",
+	"displayName": "Min Theme",
+	"description": "A minimal theme that comes in dark and light.",
+	"version": "1.4.6",
+	"publisher": "miguelsolorio",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/misolori/min-theme.git"
+	},
+	"engines": {
+		"vscode": "^1.25.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Min Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/min-dark.json"
+			},
+			{
+				"label": "Min Light",
+				"uiTheme": "vs",
+				"path": "./themes/min-light.json"
+			}
+		]
+	},
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+	"__metadata": {
+		"id": "e9e7f567-5669-4c9c-a2db-df05d6cf28ed",
+		"publisherId": "f1903af7-ceb4-410f-b269-cd514b33bea2",
+		"publisherDisplayName": "Miguel Solorio"
+	}
+}

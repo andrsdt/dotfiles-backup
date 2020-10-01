@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/andres/.config/Musixmatch/Session Storage'
+let g:netrw_dirhist_2='/home/andres/.config/Musixmatch'
+let g:netrw_dirhist_1='/home/andres/i3-radius'

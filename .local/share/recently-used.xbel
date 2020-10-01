@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/andres/.Xresources" added="2020-09-22T12:49:40.937735Z" modified="2020-09-22T16:19:46.850661Z" visited="2020-09-22T12:49:40.937736Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-09-22T16:18:15.469066Z" count="5"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-22T16:19:46.850657Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_andres0/MesloLGS%20NF%20Bold.ttf" added="2020-09-22T12:51:12.811440Z" modified="2020-09-22T12:51:12.811456Z" visited="2020-09-22T12:51:12.811443Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-22T12:51:12.811449Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_andres0/MesloLGS%20NF%20Regular.ttf" added="2020-09-22T12:51:21.190904Z" modified="2020-09-22T12:51:21.190917Z" visited="2020-09-22T12:51:21.190905Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-22T12:51:21.190912Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_andres0/MesloLGS%20NF%20Italic.ttf" added="2020-09-22T12:51:29.341752Z" modified="2020-09-22T12:51:29.341761Z" visited="2020-09-22T12:51:29.341755Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-22T12:51:29.341757Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_andres0/MesloLGS%20NF%20Bold%20Italic.ttf" added="2020-09-22T12:51:40.008183Z" modified="2020-09-22T12:51:40.008200Z" visited="2020-09-22T12:51:40.008188Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-22T12:51:40.008193Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andres/.xinitrc" added="2020-09-22T12:52:19.080843Z" modified="2020-09-22T22:42:11.240698Z" visited="2020-09-22T12:52:19.080845Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-09-22T12:52:19.080847Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-22T22:42:11.240695Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andres/Pictures/wp4720360-night-scenery-wallpapers.jpg" added="2020-09-22T14:41:00.559326Z" modified="2020-09-22T14:41:00.559334Z" visited="2020-09-22T14:41:00.559327Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-09-22T14:41:00.559331Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andres/Downloads/aur-4386c385be900a78171c6e9c844c12b0d4548235.tar.gz" added="2020-09-22T14:44:23.060200Z" modified="2020-09-22T14:44:23.060214Z" visited="2020-09-22T14:44:23.060202Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-09-22T14:44:23.060209Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andres/Downloads/aur-4386c385be900a78171c6e9c844c12b0d4548235/PKGBUILD" added="2020-09-22T14:44:29.228943Z" modified="2020-09-22T14:44:39.198651Z" visited="2020-09-22T14:44:29.228944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-09-22T14:44:39.198646Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/andres/ARCH_202009/cosas/hosts" added="2020-09-22T14:52:31.932315Z" modified="2020-09-22T14:52:55.648752Z" visited="2020-09-22T14:52:31.932317Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-09-22T14:52:55.648748Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andres/.z" added="2020-09-22T15:16:44.655049Z" modified="2020-10-01T11:57:54.290087Z" visited="2020-09-22T15:16:44.655051Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compress"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-10-01T11:57:54.290085Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/home/andres/siji/preview.png" added="2020-09-22T15:18:16.979098Z" modified="2020-09-22T15:18:28.676669Z" visited="2020-09-22T15:18:16.979100Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2020-09-22T15:18:28.180671Z" count="3"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-09-22T15:18:28.676666Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andres/.config/i3/config" added="2020-09-22T16:20:11.570858Z" modified="2020-09-22T16:20:58.507342Z" visited="2020-09-22T16:20:11.570858Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-09-22T16:20:58.507338Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-09-22T16:20:16.655553Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andres/Desktop/original-albel.jpg" added="2020-09-24T13:14:44.544184Z" modified="2020-09-24T13:14:44.544191Z" visited="2020-09-24T13:14:44.544185Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-09-24T13:14:44.544187Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andres/Desktop/original-label.jpg" added="2020-09-24T13:17:37.237638Z" modified="2020-09-24T13:17:37.237645Z" visited="2020-09-24T13:17:37.237639Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-09-24T13:17:37.237641Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andres/Desktop/seller-claims-original.png" added="2020-09-24T13:17:37.237658Z" modified="2020-09-24T13:17:37.237661Z" visited="2020-09-24T13:17:37.237658Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-09-24T13:17:37.237659Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andres/Downloads/Screenshot_20200924-152529.jpg" added="2020-09-24T13:29:25.603586Z" modified="2020-09-24T13:30:14.094425Z" visited="2020-09-24T13:29:25.603587Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-09-24T13:29:25.603591Z" count="1"/>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-09-24T13:30:14.094419Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
