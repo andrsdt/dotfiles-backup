@@ -1,0 +1,31 @@
+2020/09/24-18:18:48.313 5ab7 Reusing MANIFEST /home/andres/.config/Simplenote/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/09/24-18:18:48.313 5ab7 Recovering log #4
+2020/09/24-18:18:48.314 5ab7 Reusing old log /home/andres/.config/Simplenote/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2020/09/24-18:18:48.322 5b04 Level-0 table #8: started
+2020/09/24-18:18:48.322 5b04 Level-0 table #8: 0 bytes OK
+2020/09/24-18:18:48.325 5b04 Delete type=0 #4
+2020/09/24-18:18:48.325 5b04 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/09/24-18:18:48.325 5b04 Manual compaction at level-1 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/09/24-18:18:56.256 5b04 Level-0 table #10: started
+2020/09/24-18:18:56.259 5b04 Level-0 table #10: 491 bytes OK
+2020/09/24-18:18:56.262 5b04 Delete type=0 #7
+2020/09/24-18:18:56.262 5b04 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/09/24-18:18:58.258 5b04 Level-0 table #12: started
+2020/09/24-18:18:58.265 5b04 Level-0 table #12: 218 bytes OK
+2020/09/24-18:18:58.269 5b04 Delete type=0 #9
+2020/09/24-18:18:58.269 5b04 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 40 : 0
+2020/09/24-18:18:58.269 5b04 Compacting 1@0 + 1@1 files
+2020/09/24-18:18:58.271 5b04 Generated table #13@0: 7 keys, 372 bytes
+2020/09/24-18:18:58.271 5b04 Compacted 1@0 + 1@1 files => 372 bytes
+2020/09/24-18:18:58.274 5b04 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/24-18:18:58.274 5b04 Delete type=2 #10
+2020/09/24-18:18:58.274 5b04 Delete type=2 #12
+2020/09/24-18:18:58.274 5b04 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 40 : 0 .. (end); will stop at (end)
+2020/09/24-18:18:58.274 5b04 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\xc9\x09\x00f\x00i\x00l\x00e\x00_\x00_\x000\x00@\x001\x13\x00s\x00i\x00m\x00p\x00l\x00e\x00n\x00o\x00t\x00e\x00_\x00s\x00e\x00n\x00t\x00i\x00n\x00e\x00l' @ 30 : 0
+2020/09/24-18:18:58.274 5b04 Compacting 1@1 + 1@2 files
+2020/09/24-18:18:58.277 5b04 Generated table #14@1: 4 keys, 221 bytes
+2020/09/24-18:18:58.277 5b04 Compacted 1@1 + 1@2 files => 221 bytes
+2020/09/24-18:18:58.280 5b04 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/24-18:18:58.281 5b04 Delete type=2 #13
+2020/09/24-18:18:58.281 5b04 Delete type=2 #5
+2020/09/24-18:18:58.281 5b04 Manual compaction at level-1 from '\x00\x00\x00\x00\xc9\x09\x00f\x00i\x00l\x00e\x00_\x00_\x000\x00@\x001\x13\x00s\x00i\x00m\x00p\x00l\x00e\x00n\x00o\x00t\x00e\x00_\x00s\x00e\x00n\x00t\x00i\x00n\x00e\x00l' @ 30 : 0 .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/09/24-15:49:31.911 afed Reusing MANIFEST /home/andres/.config/Musixmatch/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/09/24-15:49:50.176 b173 Level-0 table #5: started
+2020/09/24-15:49:50.203 b173 Level-0 table #5: 1217 bytes OK
+2020/09/24-15:49:50.207 b173 Delete type=0 #3
+2020/09/24-15:49:50.207 b173 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

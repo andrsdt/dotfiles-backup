@@ -1,0 +1,31 @@
+<monitors version="2">
+  <configuration>
+    <logicalmonitor>
+      <x>0</x>
+      <y>0</y>
+      <scale>1</scale>
+      <primary>yes</primary>
+      <monitor>
+        <monitorspec>
+          <connector>eDP-1</connector>
+          <vendor>AUO</vendor>
+          <product>0x38ed</product>
+          <serial>0x00000000</serial>
+        </monitorspec>
+        <mode>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60.052936553955078</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+    <disabled>
+      <monitorspec>
+        <connector>HDMI-1</connector>
+        <vendor>ACR</vendor>
+        <product>ED242QR A</product>
+        <serial>TBDEE0043900</serial>
+      </monitorspec>
+    </disabled>
+  </configuration>
+</monitors>

@@ -1,0 +1,27 @@
+{
+   "app": {
+      "display_mode": "browser",
+      "launch": {
+         "web_url": "https://lastpass.com/es/"
+      },
+      "linked_icons": [  ]
+   },
+   "description": "Password Manager, Auto Form Filler, Random Password Generator & Secure Digital Wallet App",
+   "icons": {
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "ndxTiJhoM0D9dJe2A6Tmv0uqUCrAvi31OmHBB3piFfw=",
+   "name": "LastPass, gestor de contrasenas",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://lastpass.com/es/*" ],
+         "title": "LastPass, gestor de contrasenas"
+      }
+   },
+   "version": "2020.9.11.62686"
+}

@@ -1,0 +1,15 @@
+2020/09/25-15:28:33.751 f10 Reusing MANIFEST /home/andres/.config/google-chrome/Default/IndexedDB/https_es.aliexpress.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/25-15:28:33.751 f10 Recovering log #27
+2020/09/25-15:28:33.751 f10 Reusing old log /home/andres/.config/google-chrome/Default/IndexedDB/https_es.aliexpress.com_0.indexeddb.leveldb/000027.log 
+2020/09/25-15:28:59.335 f2c Level-0 table #32: started
+2020/09/25-15:28:59.348 f2c Level-0 table #32: 2086 bytes OK
+2020/09/25-15:28:59.351 f2c Delete type=0 #27
+2020/09/25-15:28:59.351 f2c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/25-15:28:59.351 f2c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x06\x00c\x00o\x00o\x00k\x00i\x00e' @ 258 : 1
+2020/09/25-15:28:59.351 f2c Compacting 1@1 + 1@2 files
+2020/09/25-15:28:59.354 f2c Generated table #33@1: 39 keys, 2510 bytes
+2020/09/25-15:28:59.354 f2c Compacted 1@1 + 1@2 files => 2510 bytes
+2020/09/25-15:28:59.357 f2c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/25-15:28:59.357 f2c Delete type=2 #29
+2020/09/25-15:28:59.357 f2c Delete type=2 #32
+2020/09/25-15:28:59.358 f2c Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x06\x00c\x00o\x00o\x00k\x00i\x00e' @ 258 : 1 .. (end); will stop at (end)

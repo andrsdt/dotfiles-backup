@@ -1,0 +1,27 @@
+{
+   "app": {
+      "display_mode": "browser",
+      "launch": {
+         "web_url": "https://www.youtube.com/?hl=es&gl=ES"
+      },
+      "linked_icons": [  ]
+   },
+   "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+   "icons": {
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "oyMeRqq+ke3m5gGM4T9Itrhd3ekSjelWzlt12woCCJ8=",
+   "name": "YouTube",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://www.youtube.com/*" ],
+         "title": "YouTube"
+      }
+   },
+   "version": "2020.9.11.62686"
+}

@@ -1,0 +1,5 @@
+rofi.theme:         ~/.config/rofi/slate.rasi
+rofi.font:          Open Sans bold 13 
+rofi.lines:         7
+rofi.width:         100
+rofi.combi-hide-mode-prefix: true

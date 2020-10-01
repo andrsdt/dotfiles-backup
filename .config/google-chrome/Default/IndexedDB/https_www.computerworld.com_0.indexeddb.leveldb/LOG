@@ -1,0 +1,5 @@
+2020/09/20-00:32:47.827 724 Reusing MANIFEST /home/andres/.config/google-chrome/Default/IndexedDB/https_www.computerworld.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/20-00:33:19.815 4fb Level-0 table #5: started
+2020/09/20-00:33:19.951 4fb Level-0 table #5: 821 bytes OK
+2020/09/20-00:33:19.985 4fb Delete type=0 #3
+2020/09/20-00:33:19.985 4fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,9 @@
+[2020-09-20 21:57:45.997] [sharedprocess] [info] main {"machineId":"bc3793dec3b35a5b60871faffe90f09bd9ec9c4fc6739ed4fbde8be5d9e40979","windowId":2}
+[2020-09-20 21:57:46.101] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/andres/.config/Code/User/snippets'
+[2020-09-20 21:58:26.018] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-20 22:05:58.543] [sharedprocess] [info] Installing extension: miguelsolorio.min-theme
+[2020-09-20 22:05:59.016] [sharedprocess] [info] Downloaded extension: miguelsolorio.min-theme /home/andres/.config/Code/CachedExtensionVSIXs/miguelsolorio.min-theme-1.4.6
+[2020-09-20 22:05:59.083] [sharedprocess] [info] Extracted extension to /home/andres/.vscode/extensions/.miguelsolorio.min-theme-1.4.6: miguelsolorio.min-theme
+[2020-09-20 22:05:59.083] [sharedprocess] [info] Renamed to /home/andres/.vscode/extensions/miguelsolorio.min-theme-1.4.6
+[2020-09-20 22:05:59.084] [sharedprocess] [info] Installation completed. miguelsolorio.min-theme
+[2020-09-20 22:05:59.106] [sharedprocess] [info] Extensions installed successfully: miguelsolorio.min-theme

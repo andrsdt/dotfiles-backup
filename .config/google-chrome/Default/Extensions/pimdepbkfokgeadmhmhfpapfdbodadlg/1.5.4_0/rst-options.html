@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>RST Options</title>
+		<meta name="google" value="notranslate">
+		<link href="bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
+		<link href="options.css" rel="stylesheet">
+		<script src="jquery-3.2.1.min.js"></script>
+		<script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+		<script src="rst-script.js"></script>
+		<script src="setoptions.js"></script>
+	</head>
+	<body>
+		<div class="title title-fluid">
+			<div class="container">
+				<h1>RST Options</h1>
+			</div>
+		</div>
+		<div class="container main-content">
+			<ul class="nav nav-tabs">
+				<li class="active"><a data-toggle="tab" href="#settings">Settings</a></li>
+				<li><a href="#data" data-toggle="tab" id="data-tab">Data</a></li>
+				<li><a href="#info" data-toggle="tab">Info/Change Log</a></li>
+		    </ul>
+			<div class="tab-content">
+				<div id="settings" class="tab-pane fade in active">
+					<br>
+					<div id="status"></div>
+					<center>
+						<button class="btn-lg btn-primary btn" id="save" style="margin: 5px;">Save Settings</button>
+						<button class="btn-lg btn-warning btn" id="forceupdate" style="margin: 5px;">Force Ban List Update</button>
+						<button class="btn-lg btn-success btn" id="setdefault" style="margin: 5px;">Restore Default Settings</button>
+					</center>
+					<hr>
+					<div class="option-box">
+						<label><h2>Update Ban List:</h2></label>
+						<select id="updateTime" class="form-control rst-option" style="width: 400px;">
+							<option value="60">Every 1 Hours</option>
+							<option value="180">Every 3 Hours</option>
+							<option value="360" selected="selected">Every 6 Hours</option>
+							<option value="720">Every 12 Hours</option>
+							<option value="1440">Every Day</option>
+							<option value="2880">Every 2 Days</option>
+							<option value="4320">Every 3 Days</option>
+							<option value="-1">Never</option>
+						</select>
+					</div>
+					<div class="option-box">
+						<label><h2>Label Sketchy Users</h2></label>
+						<select id="labelSketchy" class="form-control rst-option" style="width: 400px;">
+							<option value="0" selected="selected">Disabled</option>
+							<option value="1">Enabled</option>
+						</select>
+					</div>
+				</div>
+				<div id="data" class="tab-pane fade">
+					<br>
+					<div class="row">
+						<textarea class="form-control banned-users" rows="40"></textarea>
+						<span id="lastUpdate"></span>
+					</div>
+				</div>
+				<div id="info" class="tab-pane fade">
+					<br>
+					<label>Developer:</label> David C. (RiceCakes) <a href="https://www.reddit.com/message/compose/?to=Rice_Cakess">Contact</a><br>
+					<label>Version:</label> <span class="version"></span> <br>
+					<label>Change Log:</label><br>
+					<pre class="changelog"></pre>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

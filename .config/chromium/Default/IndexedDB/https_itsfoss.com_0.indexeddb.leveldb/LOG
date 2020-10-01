@@ -1,0 +1,5 @@
+2020/09/11-16:26:54.720 2fe9 Reusing MANIFEST /home/andres/.config/chromium/Default/IndexedDB/https_itsfoss.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/11-16:27:24.886 358d Level-0 table #5: started
+2020/09/11-16:27:24.932 358d Level-0 table #5: 332 bytes OK
+2020/09/11-16:27:24.979 358d Delete type=0 #3
+2020/09/11-16:27:24.979 358d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

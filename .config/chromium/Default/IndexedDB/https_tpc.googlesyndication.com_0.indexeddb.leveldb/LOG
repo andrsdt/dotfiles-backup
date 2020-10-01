@@ -1,0 +1,8 @@
+2020/09/11-16:36:46.268 2fe8 Reusing MANIFEST /home/andres/.config/chromium/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/11-16:36:46.269 2fe8 Recovering log #4
+2020/09/11-16:36:46.269 2fe8 Reusing old log /home/andres/.config/chromium/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/000004.log 
+2020/09/11-16:36:49.196 358d Level-0 table #8: started
+2020/09/11-16:36:49.196 358d Level-0 table #8: 0 bytes OK
+2020/09/11-16:36:49.255 358d Delete type=0 #4
+2020/09/11-16:36:49.255 358d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/11-16:36:49.255 358d Manual compaction at level-1 from (begin) .. (end); will stop at (end)

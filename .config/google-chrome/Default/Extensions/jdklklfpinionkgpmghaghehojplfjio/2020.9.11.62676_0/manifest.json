@@ -1,0 +1,47 @@
+{
+   "app": {
+      "display_mode": "standalone",
+      "icon_color": "#019F8B",
+      "launch": {
+         "web_url": "https://www.photopea.com/?utm_source=homescreen"
+      },
+      "linked_icons": [ {
+         "size": 512,
+         "url": "https://www.photopea.com/promo/icon512.png"
+      } ],
+      "theme_color": "rgba(71,71,71,1)"
+   },
+   "description": "Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for free!",
+   "file_handlers": {
+      "https://www.photopea.com/": {
+         "extensions": [ "jpg" ],
+         "include_directories": false,
+         "types": [ "image/jpeg" ],
+         "verb": "open_with"
+      }
+   },
+   "icons": {
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "512": "icons/512.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "CddMDxIOYwZTe/SeuwSqRzY3EsYKkHtI6AxhD1UtfSw=",
+   "name": "Photopea",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://www.photopea.com/*" ],
+         "title": "Photopea"
+      }
+   },
+   "version": "2020.9.11.62676",
+   "web_app_file_handlers": [ {
+      "accept": {
+         "image/jpeg": [ ".jpg" ]
+      },
+      "action": "https://www.photopea.com/"
+   } ]
+}

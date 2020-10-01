@@ -1,0 +1,5 @@
+2020/09/11-22:41:24.038 d47 Reusing MANIFEST /home/andres/.config/google-chrome/Default/IndexedDB/https_aax-eu.amazon-adsystem.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/11-22:50:28.734 9ea Level-0 table #5: started
+2020/09/11-22:50:28.756 9ea Level-0 table #5: 383 bytes OK
+2020/09/11-22:50:28.790 9ea Delete type=0 #3
+2020/09/11-22:50:28.790 9ea Manual compaction at level-0 from (begin) .. (end); will stop at (end)

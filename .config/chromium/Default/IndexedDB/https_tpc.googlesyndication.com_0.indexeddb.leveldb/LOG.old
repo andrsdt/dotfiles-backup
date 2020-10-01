@@ -1,0 +1,5 @@
+2020/09/11-16:25:56.935 2fda Reusing MANIFEST /home/andres/.config/chromium/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/11-16:26:31.809 358d Level-0 table #5: started
+2020/09/11-16:26:31.892 358d Level-0 table #5: 360 bytes OK
+2020/09/11-16:26:31.926 358d Delete type=0 #3
+2020/09/11-16:26:31.926 358d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

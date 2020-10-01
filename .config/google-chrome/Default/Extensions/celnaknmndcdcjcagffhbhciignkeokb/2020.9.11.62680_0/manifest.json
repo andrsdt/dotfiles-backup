@@ -1,0 +1,46 @@
+{
+   "app": {
+      "display_mode": "browser",
+      "icon_color": "#3B5998",
+      "launch": {
+         "web_url": "https://www.facebook.com/"
+      },
+      "linked_icons": [ {
+         "size": 325,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/v3/ys/r/EdXnHjzXA5W.png"
+      }, {
+         "size": 144,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yi/r/ctea_gkYuj3.png"
+      }, {
+         "size": 72,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yc/r/j9WrD251LjG.png"
+      }, {
+         "size": 64,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/54cMBAu8YEP.png"
+      }, {
+         "size": 32,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/tTklKS6ed2y.png"
+      } ]
+   },
+   "description": "Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+   "icons": {
+      "128": "icons/128.png",
+      "144": "icons/144.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "325": "icons/325.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "72": "icons/72.png",
+      "96": "icons/96.png"
+   },
+   "key": "Cy3w9jVYT0LIlfHXuc0QXTEGrM2YBNMFVtqIrhuw1iw=",
+   "name": "Facebook",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://www.facebook.com/*" ],
+         "title": "Facebook"
+      }
+   },
+   "version": "2020.9.11.62680"
+}

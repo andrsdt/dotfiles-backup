@@ -1,0 +1,15 @@
+2020/09/25-15:33:19.907 121e Reusing MANIFEST /home/andres/.config/google-chrome/Default/IndexedDB/https_www.chollometro.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/25-15:33:19.907 121e Recovering log #4
+2020/09/25-15:33:19.907 121e Reusing old log /home/andres/.config/google-chrome/Default/IndexedDB/https_www.chollometro.com_0.indexeddb.leveldb/000004.log 
+2020/09/25-15:34:15.974 f2c Level-0 table #8: started
+2020/09/25-15:34:15.983 f2c Level-0 table #8: 54523 bytes OK
+2020/09/25-15:34:15.987 f2c Delete type=0 #4
+2020/09/25-15:34:15.987 f2c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/25-15:34:15.987 f2c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00P\xe4\x80WLwB\x00\x01i\x00s\x00t\x00a\x00t\x00i\x00c\x00-\x00i\x00m\x00a\x00g\x00e\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00c\x00h\x00o\x00l\x00l\x00o\x00m\x00e\x00t\x00r\x00o\x00.\x00c\x00o\x00m\x00/\x00a\x00s\x00s\x00e\x00t\x00s\x00/\x00i\x00m\x00g\x00/\x00b\x00a\x00d\x00g\x00e\x00s\x00/\x001\x00x\x00/\x00m\x00a\x00x\x00T\x00e\x00m\x00p\x00e\x00r\x00a\x00t\x00u\x00r\x00e\x00L\x00e\x00v\x00e\x00l\x00L\x00e\x00v\x00e\x00l\x001\x00-\x00a\x00c\x00t\x00i\x00v\x00e\x00_\x001\x004\x00c\x001\x00a\x00.\x00p\x00n\x00g' @ 2070 : 1
+2020/09/25-15:34:15.987 f2c Compacting 1@1 + 1@2 files
+2020/09/25-15:34:15.993 f2c Generated table #9@1: 234 keys, 18947 bytes
+2020/09/25-15:34:15.993 f2c Compacted 1@1 + 1@2 files => 18947 bytes
+2020/09/25-15:34:15.995 f2c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/25-15:34:15.996 f2c Delete type=2 #8
+2020/09/25-15:34:15.996 f2c Delete type=2 #5
+2020/09/25-15:34:15.996 f2c Manual compaction at level-1 from '\x00\x01\x01 \x03\x00P\xe4\x80WLwB\x00\x01i\x00s\x00t\x00a\x00t\x00i\x00c\x00-\x00i\x00m\x00a\x00g\x00e\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00c\x00h\x00o\x00l\x00l\x00o\x00m\x00e\x00t\x00r\x00o\x00.\x00c\x00o\x00m\x00/\x00a\x00s\x00s\x00e\x00t\x00s\x00/\x00i\x00m\x00g\x00/\x00b\x00a\x00d\x00g\x00e\x00s\x00/\x001\x00x\x00/\x00m\x00a\x00x\x00T\x00e\x00m\x00p\x00e\x00r\x00a\x00t\x00u\x00r\x00e\x00L\x00e\x00v\x00e\x00l\x00L\x00e\x00v\x00e\x00l\x001\x00-\x00a\x00c\x00t\x00i\x00v\x00e\x00_\x001\x004\x00c\x001\x00a\x00.\x00p\x00n\x00g' @ 2070 : 1 .. (end); will stop at (end)

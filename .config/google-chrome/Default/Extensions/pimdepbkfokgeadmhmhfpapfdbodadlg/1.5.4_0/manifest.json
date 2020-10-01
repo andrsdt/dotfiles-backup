@@ -1,0 +1,27 @@
+{
+   "content_scripts": [ {
+      "css": [ "rst.css" ],
+      "exclude_matches": [ "https://mod.reddit.com/*", "https://ads.reddit.com/*", "https://i.reddit.com/*", "https://static.reddit.com/*", "https://thumbs.reddit.com/*", "https://blog.reddit.com/*", "https://code.reddit.com/*", "https://about.reddit.com/*", "https://*.reddit.com/chat/*", "https://*.reddit.com/*.compact", "https://*.reddit.com/*.compact?*", "https://*.reddit.com/*.json", "https://*.reddit.com/*.json?*", "https://*.reddit.com/*.json-html", "https://*.reddit.com/*.json-html?*" ],
+      "js": [ "jquery-3.2.1.min.js", "rst-script.js" ],
+      "matches": [ "https://*.reddit.com/*" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "Automatically labels users based on the Universal Scammers List",
+   "differential_fingerprint": "1.ba3daf9459f45964bf4ce2a227fda6f2a852652731433a49de8250f8362d5e47",
+   "icons": {
+      "128": "icon/icon128.png",
+      "16": "icon/icon16.png",
+      "48": "icon/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxc1E/Qt/hybZ66YqPeY/aJ6DNyqTVa9O1wI2ouItgRTsuPsIstxirn/xNRVCda+P5QoforJ+LM6GnvpGytG7g99CHNEAgEBZNxg8BHGuCS+n2jE/nzvwiUdWK7p13GE1OtiNM34C1nuRDmIbQwGKkusNmlw6RUWxwHCWw0OUI/U7YKfBited/PIU4mnTqOkcLEuo+j7XN+rjltfrzfHKumRmBCtVILYntyUuGTWTLQouygg9cjOhz9eniz/SuEUhT3FwQJD1U0B4jRIGb1dRvNwYlwY7LAhBqTqVU8o4HNhfKtwb8kQW+2RBCxLQjIRQ41vTCDB3okDRN82LezH2nwIDAQAB",
+   "manifest_version": 2,
+   "name": "Reddit Scammer Labeler",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "rst-options.html"
+   },
+   "permissions": [ "storage", "https://*.reddit.com/*" ],
+   "short_name": "RSL",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5.4"
+}

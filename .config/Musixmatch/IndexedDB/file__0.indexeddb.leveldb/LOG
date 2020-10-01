@@ -1,0 +1,8 @@
+2020/09/24-15:50:55.258 4af Reusing MANIFEST /home/andres/.config/Musixmatch/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/09/24-15:50:55.258 4af Recovering log #4
+2020/09/24-15:50:55.259 4af Reusing old log /home/andres/.config/Musixmatch/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2020/09/24-15:58:37.973 1160 Level-0 table #8: started
+2020/09/24-15:58:37.973 1160 Level-0 table #8: 0 bytes OK
+2020/09/24-15:58:37.981 1160 Delete type=0 #4
+2020/09/24-15:58:37.981 1160 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/24-15:58:37.981 1160 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

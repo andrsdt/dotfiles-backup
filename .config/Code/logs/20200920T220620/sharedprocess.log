@@ -1,0 +1,3 @@
+[2020-09-20 22:06:24.762] [sharedprocess] [info] main {"machineId":"bc3793dec3b35a5b60871faffe90f09bd9ec9c4fc6739ed4fbde8be5d9e40979","windowId":2}
+[2020-09-20 22:06:24.836] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/andres/.config/Code/User/snippets'
+[2020-09-20 22:07:04.794] [sharedprocess] [info] Starting to clean up unused language packs.
