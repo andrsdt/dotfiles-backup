@@ -7,14 +7,16 @@ Xft.hintstyle:  hintslight
 
 URxvt.highlightColor: #bdbdbd
 URxvt.highlighTextColor: #424242
-URxvt.transparent: true
-URxvt.shading: 25
+!URxvt.transparent: true
+!URxvt.shading: 5
+
+!*.background: #141c21
 
 !! Colorscheme
 
 ! special
 *.foreground: #93a1a1
-*.background: #141c21
+*.background: #002733
 *.cursorColor: #afbfbf
 
 ! black
@@ -55,12 +57,12 @@ URxvt.internalBorder:   15
 URxvt.saveLines:        500000
 
 !URxvt.font: xft:SourceCodePro:style=SemiBold:size=10
-URxvt.font: xft:MesloLGS NF:style=SemiBold:size=10
-!URxvt.font: xft:Apple Color Emoji:style=Regular:size=10
-URxvt.letterSpace: 0
+!URxvt.font: xft:SourceCodePro+Powerline+Awesome Regular:style=Regular:size=11
+URxvt.font: xft:MesloLGS NF:style=SemiBold:size=12
+URxvt.letterSpace: -1
 
 !! Bugged with p10k  
-! URxvt.lineSpace: 5
+!URxvt.lineSpace: 5
 
 !! Common Keybinds for Navigations
 URxvt.keysym.Shift-Up: command:\033]720;1\007
