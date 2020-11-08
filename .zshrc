@@ -120,7 +120,24 @@ set -g default-terminal "screen-256color"
 #
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
-alias pacman="sudo pacman "
-alias brightness="xrandr --output eDP-1 --brightness "
+#
+alias ...="../../"
+alias ....="../../../"
+alias .....="../../../../"
+alias ......="../../../../../"
+alias i3conf="vim ~/.config/i3/config"
+alias ka="killall -q"
+alias aptins="sudo apt-get install"
+alias snap="sudo snap"
+alias unzip="tar xvzf"
+alias hr="cat ~/.horario"
+alias python="python3"
+alias pip="pip3"
+alias gitignore-java="touch .gitignore && cat ~/Templates/.gitignore-java >> $PWD/.gitignore"
+alias gitignore-c="touch .gitignore && cat ~/Templates/.gitignore-c >> $PWD/.gitignore"
+export APPS=$HOME"/.local/share/applications"
+export PATH=$PATH:"/usr/lib/jvm/jdk-14.0.1/bin"
+export JAVA_HOME="/usr/lib/jvm/jdk-14.0.1"
+
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
